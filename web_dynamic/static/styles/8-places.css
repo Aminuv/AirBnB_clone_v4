@@ -99,3 +99,36 @@
 .user {
   margin-bottom: 1.5%;
 }
+
+.places .reviews {
+	margin-top: 40px;
+}
+
+.places .reviews h2 {
+	font-size: 16px;
+	border-bottom: 1px solid #DDDDDD;
+	padding-bottom: 15px;
+	text-align: left;
+}
+
+.places .reviews ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.places .reviews li {
+	margin: 20px 0;
+}
+
+.places .reviews li h3 {
+	margin: 0;
+	padding: 0;
+	font-size: 14px;
+}
+
+.places .reviews li p {
+	margin: 0;
+	padding: 0;
+	font-size: 12px;
+}
