@@ -1,5 +1,5 @@
 $(() => {
-  /* Vars and elements */
+  /*  vars and elements  */
   const selectedAmenities = $('.amenities h4');
   const selectedLocations = $('.locations h4');
   let checkedBoxes = [];
