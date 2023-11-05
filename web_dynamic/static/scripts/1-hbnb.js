@@ -9,6 +9,7 @@ $(() => {
   });
   let checkedBoxes = [];
 
+  
   $("input[type='checkbox']").change(function () {
     if (this.checked) {
       checkedBoxes.push({ id: this.dataset.id, name: this.dataset.name });
